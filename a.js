@@ -52,6 +52,20 @@ const subtrair = function (x, y){
    }
    console.log(dividir(20 , 40))
 
+   const multiplicar = function (x, y){
+    let resultado = x * y
+    return "Multiplicação: (" + x + ") * (" + y + ") = " + resultado
+   
+   }
+   console.log(multiplicar(20 , 40))
+
+   const resto = function (x, y){
+    let resultado = x % y
+    return "Resto: (" + x + ") % (" + y + ") = " + resultado
+   
+   }
+   console.log(resto(20 , 40))
+
 
  
 
