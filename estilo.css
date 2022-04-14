@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+}
+header{
+    background-color: blueviolet;
+    padding: 40px;
+    margin-bottom: 18px;
+   
+    
+}
+
+header > h2{
+    color: rgb(123, 240, 139);
+
+}
+
+footer{
+    background-color: rgb(153, 253, 139);
+    padding: 20px;
+    font-family: monospace;
+    border-radius: 80px;
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+footer > ul{
+    color: rgb(172, 44, 247);
+    font-weight: bold;
+}
+
+.container{
+    padding: 20px;
+    border: 2px solid rgb(153, 253, 139);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    text-align: center;
+    border-radius: 100px;
+    font-weight: bold;
+}
+
+.div-produtos{
+    margin-top: 18px;
+    border: 2px solid rgb(153, 253, 139);
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 18px;
+    align-items: center;
+    border-radius: 200px;
+}
